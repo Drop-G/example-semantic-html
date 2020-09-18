@@ -13,8 +13,10 @@ Posted a link to the deployed webpage below
 I found this excersise to be fairly difficult. Before attempting this homework I had a very elementary level understanding of how CSS and html coding works. I beleive I have become a little better at coding because of this excercise; however, there is much more to learn.
 
 **link to github pages**
+<a href = https://drop-g.github.io/refactorHomework1/ >link to github pages</a>
 
 **embedded link to a png of the website**
+<img src=“https://github.com/Drop-G/refactorHomework1/blob/master/02-Homework/fireshotScreenshotHoriseon.png?raw=true”>
 
 - - -
 © 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
